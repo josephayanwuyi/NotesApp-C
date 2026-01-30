@@ -20,6 +20,3 @@ clang -o notes main.c -lcs50
 Project Structure
 main.c — Core application logic
 notes.txt — Stores notes (generated at runtime)
-
-Author
-Joseph Ayanwuyi
